@@ -1,0 +1,10 @@
+C:\Users\drizd\source\repos\Calcul\Calcul\bin\Debug\Calcul.exe.config
+C:\Users\drizd\source\repos\Calcul\Calcul\bin\Debug\Calcul.exe
+C:\Users\drizd\source\repos\Calcul\Calcul\bin\Debug\Calcul.pdb
+C:\Users\drizd\source\repos\Calcul\Calcul\obj\Debug\Calcul.csproj.AssemblyReference.cache
+C:\Users\drizd\source\repos\Calcul\Calcul\obj\Debug\Calcul.Form1.resources
+C:\Users\drizd\source\repos\Calcul\Calcul\obj\Debug\Calcul.Properties.Resources.resources
+C:\Users\drizd\source\repos\Calcul\Calcul\obj\Debug\Calcul.csproj.GenerateResource.cache
+C:\Users\drizd\source\repos\Calcul\Calcul\obj\Debug\Calcul.csproj.CoreCompileInputs.cache
+C:\Users\drizd\source\repos\Calcul\Calcul\obj\Debug\Calcul.exe
+C:\Users\drizd\source\repos\Calcul\Calcul\obj\Debug\Calcul.pdb
